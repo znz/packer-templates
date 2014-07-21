@@ -1,6 +1,6 @@
 # packer templates
 
-## `debian-7.6.0-amd64-ja_jp`
+## [znzj/debian-7.6.0-amd64-ja_jp](https://vagrantcloud.com/znzj/debian-7.6.0-amd64-ja_jp)
 
 - localized packer templates based on https://github.com/ffuenf/vagrant-boxes
 - OS: Debian Wheezy 7.6 amd64
